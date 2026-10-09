@@ -1,0 +1,22 @@
+{
+  "passed": 15,
+  "checks": [
+    "24 points, 16 mills and 32 adjacent edges; no diagonal mills",
+    "alternating placement, nine reserves each and invalid/occupied squares rejected",
+    "mill during placement requires exactly one legal capture before turn passes",
+    "pieces in mills protected while a non-mill enemy exists",
+    "any enemy removable when all enemy pieces are in mills",
+    "four or more pieces may move only to an adjacent empty point",
+    "exactly three remaining pieces may fly to any empty point",
+    "capture reducing opponent to two pieces wins",
+    "opponent with no legal movement loses",
+    "50 movement turns without capture produce a draw",
+    "third identical position with same player to move produces a draw",
+    "placement does not trigger the movement draw counter",
+    "capture resets draw counter and repetition history",
+    "computer chooses a legal deterministic placement",
+    "10 complete legal games: placement, capture, movement, flying and termination"
+  ],
+  "complete_games": 10,
+  "total_turns": 538
+}

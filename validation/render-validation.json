@@ -1,0 +1,77 @@
+{
+  "sampled_frames": 16,
+  "ignored_square_submissions": 64,
+  "native_keyboard_events": 256,
+  "scope": "entire board, labels, game heading, footer and unchanged HUD rows; numeric input row excluded",
+  "limitation": "sampled frames, not continuous video",
+  "window_origin": [
+    220,
+    70
+  ],
+  "frames": [
+    {
+      "frame": 1,
+      "board_title_footer_unchanged": true
+    },
+    {
+      "frame": 2,
+      "board_title_footer_unchanged": true
+    },
+    {
+      "frame": 3,
+      "board_title_footer_unchanged": true
+    },
+    {
+      "frame": 4,
+      "board_title_footer_unchanged": true
+    },
+    {
+      "frame": 5,
+      "board_title_footer_unchanged": true
+    },
+    {
+      "frame": 6,
+      "board_title_footer_unchanged": true
+    },
+    {
+      "frame": 7,
+      "board_title_footer_unchanged": true
+    },
+    {
+      "frame": 8,
+      "board_title_footer_unchanged": true
+    },
+    {
+      "frame": 9,
+      "board_title_footer_unchanged": true
+    },
+    {
+      "frame": 10,
+      "board_title_footer_unchanged": true
+    },
+    {
+      "frame": 11,
+      "board_title_footer_unchanged": true
+    },
+    {
+      "frame": 12,
+      "board_title_footer_unchanged": true
+    },
+    {
+      "frame": 13,
+      "board_title_footer_unchanged": true
+    },
+    {
+      "frame": 14,
+      "board_title_footer_unchanged": true
+    },
+    {
+      "frame": 15,
+      "board_title_footer_unchanged": true
+    },
+    {
+      "frame": 16,
+      "board_title_footer_unchanged": true
+    }
+  ]
+}

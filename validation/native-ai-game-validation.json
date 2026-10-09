@@ -1,0 +1,2054 @@
+{
+  "complete_game_verified": true,
+  "winner": 2,
+  "turns": 62,
+  "computer_turns": 31,
+  "records": [
+    {
+      "human": [
+        0,
+        10,
+        0
+      ],
+      "computer": [
+        0,
+        12,
+        0
+      ],
+      "state": {
+        "board": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "reserve": [
+          8,
+          8
+        ],
+        "counts": [
+          1,
+          1
+        ],
+        "turn": 1,
+        "mode": 1,
+        "selected": 0,
+        "capture": false,
+        "winner": 0,
+        "typed": 0,
+        "quiet": 0,
+        "moves": 2,
+        "history_count": 0,
+        "ai_moves": 1,
+        "ready": true,
+        "painted": true,
+        "hud_dirty": false,
+        "last": [
+          0,
+          12,
+          0
+        ]
+      }
+    },
+    {
+      "human": [
+        0,
+        2,
+        0
+      ],
+      "computer": [
+        0,
+        18,
+        0
+      ],
+      "state": {
+        "board": [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "reserve": [
+          7,
+          7
+        ],
+        "counts": [
+          2,
+          2
+        ],
+        "turn": 1,
+        "mode": 1,
+        "selected": 0,
+        "capture": false,
+        "winner": 0,
+        "typed": 0,
+        "quiet": 0,
+        "moves": 4,
+        "history_count": 0,
+        "ai_moves": 2,
+        "ready": true,
+        "painted": true,
+        "hud_dirty": false,
+        "last": [
+          0,
+          18,
+          0
+        ]
+      }
+    },
+    {
+      "human": [
+        0,
+        1,
+        0
+      ],
+      "computer": [
+        0,
+        3,
+        0
+      ],
+      "state": {
+        "board": [
+          1,
+          1,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "reserve": [
+          6,
+          6
+        ],
+        "counts": [
+          3,
+          3
+        ],
+        "turn": 1,
+        "mode": 1,
+        "selected": 0,
+        "capture": false,
+        "winner": 0,
+        "typed": 0,
+        "quiet": 0,
+        "moves": 6,
+        "history_count": 0,
+        "ai_moves": 3,
+        "ready": true,
+        "painted": true,
+        "hud_dirty": false,
+        "last": [
+          0,
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "human": [
+        0,
+        7,
+        0
+      ],
+      "computer": [
+        0,
+        8,
+        0
+      ],
+      "state": {
+        "board": [
+          1,
+          1,
+          2,
+          0,
+          0,
+          0,
+          1,
+          2,
+          0,
+          1,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "reserve": [
+          5,
+          5
+        ],
+        "counts": [
+          4,
+          4
+        ],
+        "turn": 1,
+        "mode": 1,
+        "selected": 0,
+        "capture": false,
+        "winner": 0,
+        "typed": 0,
+        "quiet": 0,
+        "moves": 8,
+        "history_count": 0,
+        "ai_moves": 4,
+        "ready": true,
+        "painted": true,
+        "hud_dirty": false,
+        "last": [
+          0,
+          8,
+          0
+        ]
+      }
+    },
+    {
+      "human": [
+        0,
+        5,
+        0
+      ],
+      "computer": [
+        0,
+        6,
+        0
+      ],
+      "state": {
+        "board": [
+          1,
+          1,
+          2,
+          0,
+          1,
+          2,
+          1,
+          2,
+          0,
+          1,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "reserve": [
+          4,
+          4
+        ],
+        "counts": [
+          5,
+          5
+        ],
+        "turn": 1,
+        "mode": 1,
+        "selected": 0,
+        "capture": false,
+        "winner": 0,
+        "typed": 0,
+        "quiet": 0,
+        "moves": 10,
+        "history_count": 0,
+        "ai_moves": 5,
+        "ready": true,
+        "painted": true,
+        "hud_dirty": false,
+        "last": [
+          0,
+          6,
+          0
+        ]
+      }
+    },
+    {
+      "human": [
+        0,
+        9,
+        0
+      ],
+      "computer": [
+        0,
+        11,
+        0
+      ],
+      "state": {
+        "board": [
+          1,
+          1,
+          2,
+          0,
+          1,
+          2,
+          1,
+          2,
+          1,
+          1,
+          2,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "reserve": [
+          3,
+          3
+        ],
+        "counts": [
+          6,
+          6
+        ],
+        "turn": 1,
+        "mode": 1,
+        "selected": 0,
+        "capture": false,
+        "winner": 0,
+        "typed": 0,
+        "quiet": 0,
+        "moves": 12,
+        "history_count": 0,
+        "ai_moves": 6,
+        "ready": true,
+        "painted": true,
+        "hud_dirty": false,
+        "last": [
+          0,
+          11,
+          0
+        ]
+      }
+    },
+    {
+      "human": [
+        0,
+        13,
+        0
+      ],
+      "computer": [
+        0,
+        22,
+        0
+      ],
+      "state": {
+        "board": [
+          1,
+          1,
+          2,
+          0,
+          1,
+          2,
+          1,
+          2,
+          1,
+          1,
+          2,
+          2,
+          1,
+          0,
+          0,
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          2,
+          0,
+          0
+        ],
+        "reserve": [
+          2,
+          2
+        ],
+        "counts": [
+          7,
+          7
+        ],
+        "turn": 1,
+        "mode": 1,
+        "selected": 0,
+        "capture": false,
+        "winner": 0,
+        "typed": 0,
+        "quiet": 0,
+        "moves": 14,
+        "history_count": 0,
+        "ai_moves": 7,
+        "ready": true,
+        "painted": true,
+        "hud_dirty": false,
+        "last": [
+          0,
+          22,
+          0
+        ]
+      }
+    },
+    {
+      "human": [
+        0,
+        14,
+        0
+      ],
+      "computer": [
+        0,
+        15,
+        0
+      ],
+      "state": {
+        "board": [
+          1,
+          1,
+          2,
+          0,
+          1,
+          2,
+          1,
+          2,
+          1,
+          1,
+          2,
+          2,
+          1,
+          1,
+          2,
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          2,
+          0,
+          0
+        ],
+        "reserve": [
+          1,
+          1
+        ],
+        "counts": [
+          8,
+          8
+        ],
+        "turn": 1,
+        "mode": 1,
+        "selected": 0,
+        "capture": false,
+        "winner": 0,
+        "typed": 0,
+        "quiet": 0,
+        "moves": 16,
+        "history_count": 0,
+        "ai_moves": 8,
+        "ready": true,
+        "painted": true,
+        "hud_dirty": false,
+        "last": [
+          0,
+          15,
+          0
+        ]
+      }
+    },
+    {
+      "human": [
+        0,
+        20,
+        0
+      ],
+      "computer": [
+        0,
+        24,
+        0
+      ],
+      "state": {
+        "board": [
+          1,
+          1,
+          2,
+          0,
+          1,
+          2,
+          1,
+          2,
+          1,
+          1,
+          2,
+          2,
+          1,
+          1,
+          2,
+          0,
+          0,
+          2,
+          0,
+          1,
+          0,
+          2,
+          0,
+          2
+        ],
+        "reserve": [
+          0,
+          0
+        ],
+        "counts": [
+          9,
+          9
+        ],
+        "turn": 1,
+        "mode": 1,
+        "selected": 0,
+        "capture": false,
+        "winner": 0,
+        "typed": 0,
+        "quiet": 0,
+        "moves": 18,
+        "history_count": 1,
+        "ai_moves": 9,
+        "ready": true,
+        "painted": true,
+        "hud_dirty": false,
+        "last": [
+          0,
+          24,
+          0
+        ]
+      }
+    },
+    {
+      "human": [
+        9,
+        16,
+        0
+      ],
+      "computer": [
+        22,
+        23,
+        0
+      ],
+      "state": {
+        "board": [
+          1,
+          1,
+          2,
+          0,
+          1,
+          2,
+          1,
+          2,
+          0,
+          1,
+          2,
+          2,
+          1,
+          1,
+          2,
+          1,
+          0,
+          2,
+          0,
+          1,
+          0,
+          0,
+          2,
+          2
+        ],
+        "reserve": [
+          0,
+          0
+        ],
+        "counts": [
+          9,
+          9
+        ],
+        "turn": 1,
+        "mode": 1,
+        "selected": 0,
+        "capture": false,
+        "winner": 0,
+        "typed": 0,
+        "quiet": 2,
+        "moves": 20,
+        "history_count": 3,
+        "ai_moves": 10,
+        "ready": true,
+        "painted": true,
+        "hud_dirty": false,
+        "last": [
+          22,
+          23,
+          0
+        ]
+      }
+    },
+    {
+      "human": [
+        5,
+        4,
+        0
+      ],
+      "computer": [
+        18,
+        17,
+        10
+      ],
+      "state": {
+        "board": [
+          1,
+          1,
+          2,
+          1,
+          0,
+          2,
+          1,
+          2,
+          0,
+          0,
+          2,
+          2,
+          1,
+          1,
+          2,
+          1,
+          2,
+          0,
+          0,
+          1,
+          0,
+          0,
+          2,
+          2
+        ],
+        "reserve": [
+          0,
+          0
+        ],
+        "counts": [
+          8,
+          9
+        ],
+        "turn": 1,
+        "mode": 1,
+        "selected": 0,
+        "capture": false,
+        "winner": 0,
+        "typed": 0,
+        "quiet": 0,
+        "moves": 22,
+        "history_count": 1,
+        "ai_moves": 11,
+        "ready": true,
+        "painted": true,
+        "hud_dirty": false,
+        "last": [
+          18,
+          17,
+          10
+        ]
+      }
+    },
+    {
+      "human": [
+        2,
+        10,
+        0
+      ],
+      "computer": [
+        3,
+        2,
+        0
+      ],
+      "state": {
+        "board": [
+          1,
+          2,
+          0,
+          1,
+          0,
+          2,
+          1,
+          2,
+          0,
+          1,
+          2,
+          2,
+          1,
+          1,
+          2,
+          1,
+          2,
+          0,
+          0,
+          1,
+          0,
+          0,
+          2,
+          2
+        ],
+        "reserve": [
+          0,
+          0
+        ],
+        "counts": [
+          8,
+          9
+        ],
+        "turn": 1,
+        "mode": 1,
+        "selected": 0,
+        "capture": false,
+        "winner": 0,
+        "typed": 0,
+        "quiet": 2,
+        "moves": 24,
+        "history_count": 3,
+        "ai_moves": 12,
+        "ready": true,
+        "painted": true,
+        "hud_dirty": false,
+        "last": [
+          3,
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "human": [
+        14,
+        22,
+        0
+      ],
+      "computer": [
+        15,
+        14,
+        0
+      ],
+      "state": {
+        "board": [
+          1,
+          2,
+          0,
+          1,
+          0,
+          2,
+          1,
+          2,
+          0,
+          1,
+          2,
+          2,
+          1,
+          2,
+          0,
+          1,
+          2,
+          0,
+          0,
+          1,
+          0,
+          1,
+          2,
+          2
+        ],
+        "reserve": [
+          0,
+          0
+        ],
+        "counts": [
+          8,
+          9
+        ],
+        "turn": 1,
+        "mode": 1,
+        "selected": 0,
+        "capture": false,
+        "winner": 0,
+        "typed": 0,
+        "quiet": 4,
+        "moves": 26,
+        "history_count": 5,
+        "ai_moves": 13,
+        "ready": true,
+        "painted": true,
+        "hud_dirty": false,
+        "last": [
+          15,
+          14,
+          0
+        ]
+      }
+    },
+    {
+      "human": [
+        10,
+        9,
+        0
+      ],
+      "computer": [
+        14,
+        15,
+        0
+      ],
+      "state": {
+        "board": [
+          1,
+          2,
+          0,
+          1,
+          0,
+          2,
+          1,
+          2,
+          1,
+          0,
+          2,
+          2,
+          1,
+          0,
+          2,
+          1,
+          2,
+          0,
+          0,
+          1,
+          0,
+          1,
+          2,
+          2
+        ],
+        "reserve": [
+          0,
+          0
+        ],
+        "counts": [
+          8,
+          9
+        ],
+        "turn": 1,
+        "mode": 1,
+        "selected": 0,
+        "capture": false,
+        "winner": 0,
+        "typed": 0,
+        "quiet": 6,
+        "moves": 28,
+        "history_count": 7,
+        "ai_moves": 14,
+        "ready": true,
+        "painted": true,
+        "hud_dirty": false,
+        "last": [
+          14,
+          15,
+          0
+        ]
+      }
+    },
+    {
+      "human": [
+        22,
+        21,
+        0
+      ],
+      "computer": [
+        11,
+        10,
+        0
+      ],
+      "state": {
+        "board": [
+          1,
+          2,
+          0,
+          1,
+          0,
+          2,
+          1,
+          2,
+          1,
+          2,
+          0,
+          2,
+          1,
+          0,
+          2,
+          1,
+          2,
+          0,
+          0,
+          1,
+          1,
+          0,
+          2,
+          2
+        ],
+        "reserve": [
+          0,
+          0
+        ],
+        "counts": [
+          8,
+          9
+        ],
+        "turn": 1,
+        "mode": 1,
+        "selected": 0,
+        "capture": false,
+        "winner": 0,
+        "typed": 0,
+        "quiet": 8,
+        "moves": 30,
+        "history_count": 9,
+        "ai_moves": 15,
+        "ready": true,
+        "painted": true,
+        "hud_dirty": false,
+        "last": [
+          11,
+          10,
+          0
+        ]
+      }
+    },
+    {
+      "human": [
+        13,
+        14,
+        0
+      ],
+      "computer": [
+        17,
+        18,
+        20
+      ],
+      "state": {
+        "board": [
+          1,
+          2,
+          0,
+          1,
+          0,
+          2,
+          1,
+          2,
+          1,
+          2,
+          0,
+          2,
+          0,
+          1,
+          2,
+          1,
+          0,
+          2,
+          0,
+          0,
+          1,
+          0,
+          2,
+          2
+        ],
+        "reserve": [
+          0,
+          0
+        ],
+        "counts": [
+          7,
+          9
+        ],
+        "turn": 1,
+        "mode": 1,
+        "selected": 0,
+        "capture": false,
+        "winner": 0,
+        "typed": 0,
+        "quiet": 0,
+        "moves": 32,
+        "history_count": 0,
+        "ai_moves": 16,
+        "ready": true,
+        "painted": true,
+        "hud_dirty": false,
+        "last": [
+          17,
+          18,
+          20
+        ]
+      }
+    },
+    {
+      "human": [
+        21,
+        20,
+        0
+      ],
+      "computer": [
+        18,
+        17,
+        16
+      ],
+      "state": {
+        "board": [
+          1,
+          2,
+          0,
+          1,
+          0,
+          2,
+          1,
+          2,
+          1,
+          2,
+          0,
+          2,
+          0,
+          1,
+          2,
+          0,
+          2,
+          0,
+          0,
+          1,
+          0,
+          0,
+          2,
+          2
+        ],
+        "reserve": [
+          0,
+          0
+        ],
+        "counts": [
+          6,
+          9
+        ],
+        "turn": 1,
+        "mode": 1,
+        "selected": 0,
+        "capture": false,
+        "winner": 0,
+        "typed": 0,
+        "quiet": 0,
+        "moves": 34,
+        "history_count": 1,
+        "ai_moves": 17,
+        "ready": true,
+        "painted": true,
+        "hud_dirty": false,
+        "last": [
+          18,
+          17,
+          16
+        ]
+      }
+    },
+    {
+      "human": [
+        9,
+        16,
+        0
+      ],
+      "computer": [
+        17,
+        18,
+        16
+      ],
+      "state": {
+        "board": [
+          1,
+          2,
+          0,
+          1,
+          0,
+          2,
+          1,
+          2,
+          0,
+          2,
+          0,
+          2,
+          0,
+          1,
+          2,
+          0,
+          0,
+          2,
+          0,
+          1,
+          0,
+          0,
+          2,
+          2
+        ],
+        "reserve": [
+          0,
+          0
+        ],
+        "counts": [
+          5,
+          9
+        ],
+        "turn": 1,
+        "mode": 1,
+        "selected": 0,
+        "capture": false,
+        "winner": 0,
+        "typed": 0,
+        "quiet": 0,
+        "moves": 36,
+        "history_count": 1,
+        "ai_moves": 18,
+        "ready": true,
+        "painted": true,
+        "hud_dirty": false,
+        "last": [
+          17,
+          18,
+          16
+        ]
+      }
+    },
+    {
+      "human": [
+        4,
+        3,
+        0
+      ],
+      "computer": [
+        15,
+        16,
+        14
+      ],
+      "state": {
+        "board": [
+          1,
+          2,
+          1,
+          0,
+          0,
+          2,
+          1,
+          2,
+          0,
+          2,
+          0,
+          2,
+          0,
+          0,
+          0,
+          2,
+          0,
+          2,
+          0,
+          1,
+          0,
+          0,
+          2,
+          2
+        ],
+        "reserve": [
+          0,
+          0
+        ],
+        "counts": [
+          4,
+          9
+        ],
+        "turn": 1,
+        "mode": 1,
+        "selected": 0,
+        "capture": false,
+        "winner": 0,
+        "typed": 0,
+        "quiet": 0,
+        "moves": 38,
+        "history_count": 1,
+        "ai_moves": 19,
+        "ready": true,
+        "painted": true,
+        "hud_dirty": false,
+        "last": [
+          15,
+          16,
+          14
+        ]
+      }
+    },
+    {
+      "human": [
+        3,
+        4,
+        0
+      ],
+      "computer": [
+        18,
+        17,
+        4
+      ],
+      "state": {
+        "board": [
+          1,
+          2,
+          0,
+          0,
+          0,
+          2,
+          1,
+          2,
+          0,
+          2,
+          0,
+          2,
+          0,
+          0,
+          0,
+          2,
+          2,
+          0,
+          0,
+          1,
+          0,
+          0,
+          2,
+          2
+        ],
+        "reserve": [
+          0,
+          0
+        ],
+        "counts": [
+          3,
+          9
+        ],
+        "turn": 1,
+        "mode": 1,
+        "selected": 0,
+        "capture": false,
+        "winner": 0,
+        "typed": 0,
+        "quiet": 0,
+        "moves": 40,
+        "history_count": 1,
+        "ai_moves": 20,
+        "ready": true,
+        "painted": true,
+        "hud_dirty": false,
+        "last": [
+          18,
+          17,
+          4
+        ]
+      }
+    },
+    {
+      "human": [
+        1,
+        18,
+        0
+      ],
+      "computer": [
+        10,
+        9,
+        0
+      ],
+      "state": {
+        "board": [
+          0,
+          2,
+          0,
+          0,
+          0,
+          2,
+          1,
+          2,
+          2,
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          2,
+          2,
+          1,
+          0,
+          1,
+          0,
+          0,
+          2,
+          2
+        ],
+        "reserve": [
+          0,
+          0
+        ],
+        "counts": [
+          3,
+          9
+        ],
+        "turn": 1,
+        "mode": 1,
+        "selected": 0,
+        "capture": false,
+        "winner": 0,
+        "typed": 0,
+        "quiet": 2,
+        "moves": 42,
+        "history_count": 3,
+        "ai_moves": 21,
+        "ready": true,
+        "painted": true,
+        "hud_dirty": false,
+        "last": [
+          10,
+          9,
+          0
+        ]
+      }
+    },
+    {
+      "human": [
+        7,
+        15,
+        0
+      ],
+      "computer": [
+        2,
+        10,
+        0
+      ],
+      "state": {
+        "board": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          2,
+          0,
+          2,
+          2,
+          2,
+          0,
+          2,
+          0,
+          0,
+          1,
+          2,
+          2,
+          1,
+          0,
+          1,
+          0,
+          0,
+          2,
+          2
+        ],
+        "reserve": [
+          0,
+          0
+        ],
+        "counts": [
+          3,
+          9
+        ],
+        "turn": 1,
+        "mode": 1,
+        "selected": 0,
+        "capture": false,
+        "winner": 0,
+        "typed": 0,
+        "quiet": 4,
+        "moves": 44,
+        "history_count": 5,
+        "ai_moves": 22,
+        "ready": true,
+        "painted": true,
+        "hud_dirty": false,
+        "last": [
+          2,
+          10,
+          0
+        ]
+      }
+    },
+    {
+      "human": [
+        18,
+        11,
+        0
+      ],
+      "computer": [
+        10,
+        18,
+        0
+      ],
+      "state": {
+        "board": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          2,
+          0,
+          2,
+          2,
+          0,
+          1,
+          2,
+          0,
+          0,
+          1,
+          2,
+          2,
+          2,
+          0,
+          1,
+          0,
+          0,
+          2,
+          2
+        ],
+        "reserve": [
+          0,
+          0
+        ],
+        "counts": [
+          3,
+          9
+        ],
+        "turn": 1,
+        "mode": 1,
+        "selected": 0,
+        "capture": false,
+        "winner": 0,
+        "typed": 0,
+        "quiet": 6,
+        "moves": 46,
+        "history_count": 7,
+        "ai_moves": 23,
+        "ready": true,
+        "painted": true,
+        "hud_dirty": false,
+        "last": [
+          10,
+          18,
+          0
+        ]
+      }
+    },
+    {
+      "human": [
+        11,
+        19,
+        0
+      ],
+      "computer": [
+        9,
+        10,
+        0
+      ],
+      "state": {
+        "board": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          2,
+          0,
+          2,
+          0,
+          2,
+          0,
+          2,
+          0,
+          0,
+          1,
+          2,
+          2,
+          2,
+          1,
+          1,
+          0,
+          0,
+          2,
+          2
+        ],
+        "reserve": [
+          0,
+          0
+        ],
+        "counts": [
+          3,
+          9
+        ],
+        "turn": 1,
+        "mode": 1,
+        "selected": 0,
+        "capture": false,
+        "winner": 0,
+        "typed": 0,
+        "quiet": 8,
+        "moves": 48,
+        "history_count": 9,
+        "ai_moves": 24,
+        "ready": true,
+        "painted": true,
+        "hud_dirty": false,
+        "last": [
+          9,
+          10,
+          0
+        ]
+      }
+    },
+    {
+      "human": [
+        15,
+        21,
+        10
+      ],
+      "computer": [
+        6,
+        7,
+        0
+      ],
+      "state": {
+        "board": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          2,
+          2,
+          0,
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          2,
+          2,
+          2,
+          1,
+          1,
+          1,
+          0,
+          2,
+          2
+        ],
+        "reserve": [
+          0,
+          0
+        ],
+        "counts": [
+          3,
+          8
+        ],
+        "turn": 1,
+        "mode": 1,
+        "selected": 0,
+        "capture": false,
+        "winner": 0,
+        "typed": 0,
+        "quiet": 1,
+        "moves": 50,
+        "history_count": 1,
+        "ai_moves": 25,
+        "ready": true,
+        "painted": true,
+        "hud_dirty": false,
+        "last": [
+          6,
+          7,
+          0
+        ]
+      }
+    },
+    {
+      "human": [
+        20,
+        1,
+        0
+      ],
+      "computer": [
+        12,
+        20,
+        0
+      ],
+      "state": {
+        "board": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          2,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          2,
+          2,
+          2,
+          1,
+          2,
+          1,
+          0,
+          2,
+          2
+        ],
+        "reserve": [
+          0,
+          0
+        ],
+        "counts": [
+          3,
+          8
+        ],
+        "turn": 1,
+        "mode": 1,
+        "selected": 0,
+        "capture": false,
+        "winner": 0,
+        "typed": 0,
+        "quiet": 3,
+        "moves": 52,
+        "history_count": 4,
+        "ai_moves": 26,
+        "ready": true,
+        "painted": true,
+        "hud_dirty": false,
+        "last": [
+          12,
+          20,
+          0
+        ]
+      }
+    },
+    {
+      "human": [
+        21,
+        3,
+        0
+      ],
+      "computer": [
+        20,
+        21,
+        0
+      ],
+      "state": {
+        "board": [
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          2,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          2,
+          2,
+          2,
+          1,
+          0,
+          2,
+          0,
+          2,
+          2
+        ],
+        "reserve": [
+          0,
+          0
+        ],
+        "counts": [
+          3,
+          8
+        ],
+        "turn": 1,
+        "mode": 1,
+        "selected": 0,
+        "capture": false,
+        "winner": 0,
+        "typed": 0,
+        "quiet": 5,
+        "moves": 54,
+        "history_count": 6,
+        "ai_moves": 27,
+        "ready": true,
+        "painted": true,
+        "hud_dirty": false,
+        "last": [
+          20,
+          21,
+          0
+        ]
+      }
+    },
+    {
+      "human": [
+        19,
+        2,
+        21
+      ],
+      "computer": [
+        7,
+        6,
+        0
+      ],
+      "state": {
+        "board": [
+          1,
+          1,
+          1,
+          0,
+          0,
+          2,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          2,
+          2,
+          2,
+          0,
+          0,
+          0,
+          0,
+          2,
+          2
+        ],
+        "reserve": [
+          0,
+          0
+        ],
+        "counts": [
+          3,
+          7
+        ],
+        "turn": 1,
+        "mode": 1,
+        "selected": 0,
+        "capture": false,
+        "winner": 0,
+        "typed": 0,
+        "quiet": 1,
+        "moves": 56,
+        "history_count": 2,
+        "ai_moves": 28,
+        "ready": true,
+        "painted": true,
+        "hud_dirty": false,
+        "last": [
+          7,
+          6,
+          0
+        ]
+      }
+    },
+    {
+      "human": [
+        2,
+        19,
+        0
+      ],
+      "computer": [
+        18,
+        10,
+        0
+      ],
+      "state": {
+        "board": [
+          1,
+          0,
+          1,
+          0,
+          0,
+          2,
+          0,
+          2,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          2,
+          2,
+          0,
+          1,
+          0,
+          0,
+          0,
+          2,
+          2
+        ],
+        "reserve": [
+          0,
+          0
+        ],
+        "counts": [
+          3,
+          7
+        ],
+        "turn": 1,
+        "mode": 1,
+        "selected": 0,
+        "capture": false,
+        "winner": 0,
+        "typed": 0,
+        "quiet": 3,
+        "moves": 58,
+        "history_count": 4,
+        "ai_moves": 29,
+        "ready": true,
+        "painted": true,
+        "hud_dirty": false,
+        "last": [
+          18,
+          10,
+          0
+        ]
+      }
+    },
+    {
+      "human": [
+        19,
+        2,
+        10
+      ],
+      "computer": [
+        23,
+        22,
+        0
+      ],
+      "state": {
+        "board": [
+          1,
+          1,
+          1,
+          0,
+          0,
+          2,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          2,
+          2,
+          0,
+          0,
+          0,
+          0,
+          2,
+          0,
+          2
+        ],
+        "reserve": [
+          0,
+          0
+        ],
+        "counts": [
+          3,
+          6
+        ],
+        "turn": 1,
+        "mode": 1,
+        "selected": 0,
+        "capture": false,
+        "winner": 0,
+        "typed": 0,
+        "quiet": 1,
+        "moves": 60,
+        "history_count": 2,
+        "ai_moves": 30,
+        "ready": true,
+        "painted": true,
+        "hud_dirty": false,
+        "last": [
+          23,
+          22,
+          0
+        ]
+      }
+    },
+    {
+      "human": [
+        2,
+        14,
+        0
+      ],
+      "computer": [
+        22,
+        23,
+        1
+      ],
+      "state": {
+        "board": [
+          0,
+          0,
+          1,
+          0,
+          0,
+          2,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          2,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          2,
+          2
+        ],
+        "reserve": [
+          0,
+          0
+        ],
+        "counts": [
+          2,
+          6
+        ],
+        "turn": 1,
+        "mode": 1,
+        "selected": 0,
+        "capture": false,
+        "winner": 2,
+        "typed": 0,
+        "quiet": 0,
+        "moves": 62,
+        "history_count": 0,
+        "ai_moves": 31,
+        "ready": true,
+        "painted": true,
+        "hud_dirty": false,
+        "last": [
+          22,
+          23,
+          1
+        ]
+      }
+    }
+  ]
+}

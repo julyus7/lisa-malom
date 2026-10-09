@@ -1,0 +1,11 @@
+{
+  "tool_id": 244,
+  "image_bytes": 419284,
+  "image_sha256": "8ee9afccd96fb46d5dcb2fd07b7920ae4831ba71eff54cae4bbbdcc91b41b47f",
+  "executable_bytes": 11776,
+  "executable_sha256": "4edda1a14e9ceab3d0a182045938e3b7d0da1bee3b4f6ef91de6348150bdb800",
+  "compiled_source_matches": true,
+  "native_sony_tags_preserved": 800,
+  "icons_identical": 3,
+  "volume_uid_suffix": "D605"
+}

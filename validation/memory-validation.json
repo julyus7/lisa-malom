@@ -1,0 +1,9 @@
+{
+  "configured_memory_kb": 1024,
+  "native_physical_start": 524288,
+  "native_physical_end": 1572864,
+  "native_memory_bytes": 1048576,
+  "host_backing_buffer_read_bytes": 2097152,
+  "pid": 5137,
+  "note": "The backing buffer includes address holes; RAM capacity is end minus start."
+}

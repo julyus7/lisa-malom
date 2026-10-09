@@ -1,0 +1,68 @@
+{
+  "mouse_placement_verified": true,
+  "native_points": [
+    [
+      244,
+      126
+    ],
+    [
+      280,
+      155
+    ]
+  ],
+  "state": {
+    "board": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "reserve": [
+      8,
+      8
+    ],
+    "counts": [
+      1,
+      1
+    ],
+    "turn": 1,
+    "mode": 2,
+    "selected": 0,
+    "capture": false,
+    "winner": 0,
+    "typed": 0,
+    "quiet": 0,
+    "moves": 2,
+    "history_count": 0,
+    "ai_moves": 0,
+    "ready": true,
+    "painted": true,
+    "hud_dirty": false,
+    "last": [
+      0,
+      9,
+      0
+    ]
+  },
+  "method": "normal COPS mouse motion and button down/up"
+}

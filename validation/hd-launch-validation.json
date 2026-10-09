@@ -1,0 +1,66 @@
+{
+  "reopened_from_Games_folder": true,
+  "floppy_ejected_in_LOS": true,
+  "human_move_and_computer_reply_verified": true,
+  "tool_reloaded_after_native_shutdown_for_copy": true,
+  "cold_boot_test": false,
+  "reference_computer_reply": [
+    0,
+    10,
+    0
+  ],
+  "state": {
+    "board": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "reserve": [
+      8,
+      8
+    ],
+    "counts": [
+      1,
+      1
+    ],
+    "turn": 1,
+    "mode": 1,
+    "selected": 0,
+    "capture": false,
+    "winner": 0,
+    "typed": 0,
+    "quiet": 0,
+    "moves": 2,
+    "history_count": 0,
+    "ai_moves": 1,
+    "ready": true,
+    "painted": true,
+    "hud_dirty": false,
+    "last": [
+      0,
+      10,
+      0
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "shutdown": "Native LOS power-off before emulator termination; Linux VM poweroff",
+  "own_vm_closed": true,
+  "emulator_closed": true,
+  "backup_file": "Z:/RETRO MAC/LISA/Malom.dc42",
+  "vm_pid": 2976
+}

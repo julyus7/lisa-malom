@@ -1,0 +1,404 @@
+{
+  "passed": 7,
+  "checks": [
+    {
+      "test": "native opponent entirely in a mill: capture still required",
+      "state": {
+        "board": [
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          2,
+          2,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "reserve": [
+          5,
+          6
+        ],
+        "counts": [
+          3,
+          3
+        ],
+        "turn": 1,
+        "mode": 2,
+        "selected": 0,
+        "capture": true,
+        "winner": 0,
+        "typed": 0,
+        "quiet": 0,
+        "moves": 6,
+        "history_count": 0,
+        "ai_moves": 0,
+        "ready": true,
+        "painted": true,
+        "hud_dirty": false,
+        "last": [
+          0,
+          3,
+          0
+        ]
+      }
+    },
+    {
+      "test": "native capture from all-protected pieces succeeds and later mill forms",
+      "state": {
+        "board": [
+          1,
+          1,
+          1,
+          0,
+          2,
+          1,
+          0,
+          0,
+          2,
+          2,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "reserve": [
+          4,
+          4
+        ],
+        "counts": [
+          4,
+          4
+        ],
+        "turn": 2,
+        "mode": 2,
+        "selected": 0,
+        "capture": true,
+        "winner": 0,
+        "typed": 0,
+        "quiet": 0,
+        "moves": 9,
+        "history_count": 0,
+        "ai_moves": 0,
+        "ready": true,
+        "painted": true,
+        "hud_dirty": false,
+        "last": [
+          0,
+          9,
+          0
+        ]
+      }
+    },
+    {
+      "test": "native protected mill pieces cannot be removed while outsider exists",
+      "state": {
+        "board": [
+          1,
+          1,
+          1,
+          0,
+          2,
+          1,
+          0,
+          0,
+          2,
+          2,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "reserve": [
+          4,
+          4
+        ],
+        "counts": [
+          4,
+          4
+        ],
+        "turn": 2,
+        "mode": 2,
+        "selected": 0,
+        "capture": true,
+        "winner": 0,
+        "typed": 0,
+        "quiet": 0,
+        "moves": 9,
+        "history_count": 0,
+        "ai_moves": 0,
+        "ready": true,
+        "painted": true,
+        "hud_dirty": false,
+        "last": [
+          0,
+          9,
+          0
+        ]
+      }
+    },
+    {
+      "test": "native unprotected outsider can be removed",
+      "state": {
+        "board": [
+          1,
+          1,
+          1,
+          0,
+          2,
+          0,
+          0,
+          0,
+          2,
+          2,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "reserve": [
+          4,
+          4
+        ],
+        "counts": [
+          3,
+          4
+        ],
+        "turn": 1,
+        "mode": 2,
+        "selected": 0,
+        "capture": false,
+        "winner": 0,
+        "typed": 0,
+        "quiet": 0,
+        "moves": 10,
+        "history_count": 0,
+        "ai_moves": 0,
+        "ready": true,
+        "painted": true,
+        "hud_dirty": false,
+        "last": [
+          0,
+          9,
+          6
+        ]
+      }
+    },
+    {
+      "test": "native double mill forms in one placement",
+      "state": {
+        "board": [
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          2,
+          0,
+          2,
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0
+        ],
+        "reserve": [
+          4,
+          5
+        ],
+        "counts": [
+          5,
+          4
+        ],
+        "turn": 1,
+        "mode": 2,
+        "selected": 0,
+        "capture": true,
+        "winner": 0,
+        "typed": 0,
+        "quiet": 0,
+        "moves": 8,
+        "history_count": 0,
+        "ai_moves": 0,
+        "ready": true,
+        "painted": true,
+        "hud_dirty": false,
+        "last": [
+          0,
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "test": "native double mill grants exactly one capture",
+      "state": {
+        "board": [
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          2,
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0
+        ],
+        "reserve": [
+          4,
+          5
+        ],
+        "counts": [
+          5,
+          3
+        ],
+        "turn": 2,
+        "mode": 2,
+        "selected": 0,
+        "capture": false,
+        "winner": 0,
+        "typed": 0,
+        "quiet": 0,
+        "moves": 9,
+        "history_count": 0,
+        "ai_moves": 0,
+        "ready": true,
+        "painted": true,
+        "hud_dirty": false,
+        "last": [
+          0,
+          1,
+          9
+        ]
+      }
+    },
+    {
+      "test": "restart clears a pending game and preserves two-player mode",
+      "state": {
+        "board": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "reserve": [
+          9,
+          9
+        ],
+        "counts": [
+          0,
+          0
+        ],
+        "turn": 1,
+        "mode": 2,
+        "selected": 0,
+        "capture": false,
+        "winner": 0,
+        "typed": 0,
+        "quiet": 0,
+        "moves": 0,
+        "history_count": 0,
+        "ai_moves": 0,
+        "ready": true,
+        "painted": true,
+        "hud_dirty": false,
+        "last": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  ]
+}
